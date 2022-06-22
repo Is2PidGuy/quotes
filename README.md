@@ -26,8 +26,11 @@ Things you may want to cover:
 =======
 # quotes
 Three apis are available:
-/quote.json
-/quote.xml
-/quote.html
+
+`/quote.json`
+
+`/quote.xml`
+
+`/quote.html`
 
 Each of the apis will return a random quote sampled from the provided csv file.
